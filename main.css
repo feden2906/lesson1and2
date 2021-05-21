@@ -1,0 +1,40 @@
+body {
+    background: aliceblue;
+}
+h1 {
+    text-align: center;
+    color: red;
+    background: beige;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+    background: beige;
+}
+
+div {
+    background: beige;
+}
+.header {
+    display: flex;
+}
+
+p {
+    order: 2;
+    background: beige;
+}
+
+ul {
+    background: beige;
+    text-align: center;
+}
+ .back {
+    margin: auto;
+    color: red;
+
+}
+ span {
+     font-size: 20px;
+     color: brown;
+ }

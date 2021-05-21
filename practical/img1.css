@@ -1,0 +1,31 @@
+.box-container {
+    width: 1920px;
+    height: 1080px;
+    background: aquamarine;
+}
+.container {
+
+    display: flex;
+
+}
+
+.box-a {
+    width: 1900px;
+    height: 430px;
+    background: aqua;
+    margin: 7px;
+}
+
+.box-b {
+    width: 1200px;
+    height: 630px;
+    background: aqua;
+    margin: 5px;
+}
+
+.box-c {
+    width: 700px;
+    height: 630px;
+    background: aqua;
+    margin: 5px;
+}
